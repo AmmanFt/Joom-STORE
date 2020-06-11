@@ -31,6 +31,22 @@
               <div class="brand-text brand-big visible text-uppercase"><strong class="text-primary">Halaman&nbsp;</strong><strong>Admin</strong></div>
               <div class="brand-text brand-sm"><strong class="text-primary">D</strong><strong>A</strong></div></a>
           </div>
+          <div class="right-menu list-inline no-margin-bottom">
+            <!-- Log out               -->
+            <div class="list-inline-item logout">
+              <!-- SEARCH FORM -->
+                <form class="form-inline ml-0 ml-md-3">
+                  <div class="input-group input-group-sm">
+                    <input class="form-control form-control-navbar" type="search" placeholder="Apa yang anda cari.." aria-label="Search">
+                    <div class="input-group-append">
+                      <button class="btn btn-primary" type="submit">
+                        <i class="glyphicon glyphicon-search"></i> Cari 
+                      </button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+          </div>
         </div>
       </nav>
     </header>
